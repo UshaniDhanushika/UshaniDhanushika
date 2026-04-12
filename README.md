@@ -56,7 +56,7 @@
 
 🔹 **ISA School Visit Scheduling System** – Mobile + Web system for managing school visits and reports  
 🔹 **WanderLK** – Travel-based digital platform concept 🌍  
-🔹 **E-commerce Gift Store** – React + Spring Boot learning project 🎁  
+🔹 **E-commerce event rental system - EventRentLK** – React + Spring Boot learning project 🎁  
 
 ---
 
